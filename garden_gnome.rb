@@ -12,4 +12,4 @@ end
 
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
- 
+  test_gnome.hat_color = "red"
