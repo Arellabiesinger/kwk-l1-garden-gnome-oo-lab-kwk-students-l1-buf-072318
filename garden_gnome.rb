@@ -12,6 +12,6 @@ end
 
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
- test_gnome = GardenGnome.new ("red")
+ test_gnome = GardenGnome.new("red")
   
  
