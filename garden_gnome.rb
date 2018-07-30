@@ -6,10 +6,10 @@ class GardenGnome
 
 def initialize(hat_color)
   @personality = "evil"
-  @hat_color = "red"
+  hat_color = "red"
 end
 end
 
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
-  test_gnome.hat_color = "red"
+  # test_gnome.hat_color = "red"
