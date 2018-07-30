@@ -12,6 +12,6 @@ end
 
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
- test_gnome = GardenGnome.new("red")
+ red = GardenGnome.new("red")
   
- 
+# beyonce = Person.new("Beyonce")
