@@ -1,6 +1,7 @@
 # Code your instances here
 
-class Gnome
+
+class GardenGnome
 attr_accessor :name, :age, :gluten_allergy
 
 
@@ -11,4 +12,4 @@ attr_accessor :name, :age, :gluten_allergy
 
 end
 
-test_gnome = Gnome.new
+test_gnome = GardenGnome.new
