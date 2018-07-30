@@ -14,4 +14,3 @@ test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
  red = GardenGnome.new("red")
   
-# beyonce = Person.new("Beyonce")
