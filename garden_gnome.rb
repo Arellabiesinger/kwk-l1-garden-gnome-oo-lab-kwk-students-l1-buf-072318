@@ -8,4 +8,4 @@ attr_reader :personality
 end
 
 test_gnome = GardenGnome.new
-test_gnome4.personality = "evil"
+# test_gnome4.personality = "evil"
