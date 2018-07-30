@@ -7,6 +7,7 @@ attr_reader :personality
 def initialize
   @personality = "evil"
 end
+end
 
 test_gnome = GardenGnome.new
  test_gnome4.personality 
