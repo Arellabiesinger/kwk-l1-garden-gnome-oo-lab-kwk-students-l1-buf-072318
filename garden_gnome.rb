@@ -14,6 +14,7 @@ class GardenGnome
     def shout
       "GNARLY!!!"
     end
+    def i
 end
 
 test_gnome = GardenGnome.new
