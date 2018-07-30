@@ -12,4 +12,6 @@ end
 
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
-  @hat_color = "red"
+ test_gnome = GardenGnome.new ("red")
+  
+ 
