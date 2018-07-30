@@ -22,9 +22,9 @@ end
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
  blue = GardenGnome.new("blue")
-  gnawing_gnome = GardenGnome.new
-  gnawing_gnome.gnaw
-  shouting_gnome = GardenGnome.new
-  shouting_gnome.shout
-  
+gnawing_gnome = GardenGnome.new
+gnawing_gnome.gnaw
+shouting_gnome = GardenGnome.new
+shouting_gnome.shout
+  intro_gnome.introduce_self
   
