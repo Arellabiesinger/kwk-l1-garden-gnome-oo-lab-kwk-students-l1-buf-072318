@@ -4,7 +4,7 @@
 class GardenGnome
  attr_accessor :name, :age, :gluten_allergy, :personality, :hat_color
 
-   def initialize(hat_color = "red")
+   def initialize(hat_color)
     @personality = "evil"
     @hat_color = color
    end
@@ -12,6 +12,6 @@ end
 
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
- color = GardenGnome.new("red")
+ red = GardenGnome.new("red")
   
 # beyonce = Person.new("Beyonce")
