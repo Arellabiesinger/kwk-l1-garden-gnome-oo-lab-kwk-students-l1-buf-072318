@@ -11,8 +11,8 @@ class GardenGnome
     def gnaw
       "Gnawing on a tree!!!"
     end
-    def shouts
-      ""
+    def shout
+      "GNARLY!!!"
     end
 end
 
@@ -21,3 +21,7 @@ test_gnome = GardenGnome.new
  blue = GardenGnome.new("blue")
   gnawing_gnome = GardenGnome.new
   gnawing_gnome.gnaw
+  shouting_gnome = GardenGnome.new
+  
+  
+  
