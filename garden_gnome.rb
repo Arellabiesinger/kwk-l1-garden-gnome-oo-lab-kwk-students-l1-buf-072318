@@ -16,4 +16,4 @@ end
 test_gnome = GardenGnome.new
  test_gnome.personality = "evil"
  blue = GardenGnome.new("blue")
-  gnawing_gnome.gnaw
+  puts gnaw
