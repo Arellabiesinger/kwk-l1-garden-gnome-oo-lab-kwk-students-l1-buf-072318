@@ -8,9 +8,9 @@ class GardenGnome
     @personality = "evil"
     @hat_color = hat_color
    end
-def gnaw
-  puts "Gnawing on a tree!!!"
-end
+# def gnaw
+#   puts "Gnawing on a tree!!!"
+# end
 end
 
 test_gnome = GardenGnome.new
