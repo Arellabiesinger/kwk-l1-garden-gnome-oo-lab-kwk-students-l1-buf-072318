@@ -10,4 +10,4 @@ end
 end
 
 test_gnome = GardenGnome.new
- test_gnome4.personality 
+ test_gnome4.personality = "evil"
