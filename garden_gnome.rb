@@ -8,3 +8,4 @@ def personality
 @personality = "evil"
 end
 test_gnome = GardenGnome.new
+personality
