@@ -6,7 +6,9 @@ attr_accessor :name, :age, :gluten_allergy
 
 
 
-test_gnome = GardenGnome.new
+
 
 
 end
+
+test_gnome = GardenGnome.new
